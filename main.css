@@ -210,7 +210,7 @@ body .container .services .wrapper .service:hover {
   scale: 1.015; }
 
 body .container .services .wrapper .services1 {
-  background-image: url(Novice2.jpeg); }
+  background-image: url(/Novice2.jpeg); }
 
 body .container .services .wrapper .services2 {
   background-image: url(NoviceAvatar.jpeg); }
